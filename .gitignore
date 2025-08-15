@@ -1,0 +1,6 @@
+secrets.txt
+
+
+# This sign '#' can be used for comment.
+# *.txt -> all the files using this extension will be ignored.
+# Just put the exact file name you want to ignore
